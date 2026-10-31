@@ -20,7 +20,7 @@
 - Kurtosis
 - Quantiles
 
-- Python offers a **wide range of options** for descriptive statistics. The most commonly used ones are:
+Python offers a **wide range of options** for descriptive statistics. The most commonly used ones are:
 
 - **NumPy**
 - **SciPy**
