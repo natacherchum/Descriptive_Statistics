@@ -10,7 +10,7 @@ A practical introduction to summarizing and exploring data with Python.
 
 ## Course Materials
 
-[Descriptive Statistics in Python](descriptive_statistics.md)
+[Descriptive Statistics in Python](descriptive-statistics.md)
 
 ## Prerequisites
 
