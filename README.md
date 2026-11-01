@@ -26,3 +26,6 @@ Basic knowledge of Python.
 [Descriptive Statistics with the statistics Module](descriptive_stat_statistics.ipynb)
 
 [Data Visualization with Matplotlib and seaborn](descriptive_stat_visualisations.ipynb)
+
+## Raw Data
+descriptive_statistics_example1.csv
