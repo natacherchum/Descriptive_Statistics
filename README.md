@@ -17,4 +17,8 @@ A practical introduction to summarizing and exploring data with Python.
 Basic knowledge of Python.
 
 ## Contents
-[Descriptive Statistics in numpy](descriptive_stat_numpy.ipynb)
+[Descriptive Statistics numpy](descriptive_stat_numpy.ipynb)
+[Descriptive Statistics_scipy](descriptive_stat_scipy.ipynb)
+[Descriptive Statistics_pandas](descriptive_stat_pandas.ipynb)
+[Descriptive Statistics_statistics](descriptive_stat_statistics.ipynb)
+[Descriptive Statistics_visualisations](descriptive_stat_visualisations.ipynb)
