@@ -15,3 +15,6 @@ A practical introduction to summarizing and exploring data with Python.
 ## Prerequisites
 
 Basic knowledge of Python.
+
+## Contents
+[Descriptive Statistics in numpy](descriptive_stat_numpy.ipynb)
