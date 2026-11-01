@@ -23,6 +23,6 @@ Basic knowledge of Python.
 
 [Descriptive Statistics with pandas](descriptive_stat_pandas.ipynb)
 
-Descriptive Statistics with the `statistics` Module](descriptive_stat_statistics.ipynb)
+Descriptive Statistics with the statistics Module](descriptive_stat_statistics.ipynb)
 
 [Data Visualization with Matplotlib and seaborn](descriptive_stat_visualisations.ipynb)
