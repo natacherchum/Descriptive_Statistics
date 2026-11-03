@@ -37,3 +37,59 @@ Resistant to outliers.
 The most frequently occurring value.
 
 A dataset may have one mode, multiple modes, or no unique mode.
+
+## Dispersion
+
+### Minimum and maximum
+
+The smallest and largest values.
+
+$$
+\min = x_{(1)}, \qquad \max = x_{(n)}
+$$
+
+### Range
+
+The difference between the maximum and minimum.
+
+$$
+R = \max - \min
+$$
+
+### Interquartile range
+
+The spread of the middle 50% of the data.
+
+$$
+IQR = Q_3 - Q_1
+$$
+
+$Q_1$ is the 25th percentile; $Q_3$ is the 75th percentile.
+
+### Variance
+
+Measures squared deviations from the mean.
+
+Population variance:
+
+$$
+\sigma^2 = \frac{1}{N}\sum_{i=1}^{N}(x_i-\mu)^2
+$$
+
+Sample variance:
+
+$$
+s^2 = \frac{1}{n-1}\sum_{i=1}^{n}(x_i-\bar{x})^2
+$$
+
+Measured in squared units.
+
+### Standard deviation
+
+The square root of the variance.
+
+$$
+\sigma = \sqrt{\sigma^2}, \qquad s = \sqrt{s^2}
+$$
+
+Measured in the same units as the data.
