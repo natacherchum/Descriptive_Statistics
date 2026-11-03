@@ -15,6 +15,7 @@ A practical introduction to summarizing and exploring data with Python.
 ## Prerequisites
 
 Knowledge of Statistics Fundamentals
+
 Basic knowledge of Python.
 
 ## Contents
