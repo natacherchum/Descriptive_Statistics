@@ -21,13 +21,13 @@ The middle value of the sorted data.
 For odd $n$:
 
 $$
-\operatorname{Median} = x_{\left(\frac{n+1}{2}\right)}
+\mathrm{Median} = x_{\left(\frac{n+1}{2}\right)}
 $$
 
 For even $n$:
 
 $$
-\operatorname{Median} = \frac{x_{(n/2)} + x_{(n/2+1)}}{2}
+\mathrm{Median} = \frac{x_{(n/2)} + x_{(n/2+1)}}{2}
 $$
 
 Resistant to outliers.
